@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a passionate developer always eager to learn a
 - Open to collaborate on innovative projects in web development and software tools.
 
 ### 📫 How to Reach Me
-- Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/nikola-stojanovi%C4%87-42376b2b8/).
+- Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/nikola-stojanović8/).
 
 ### ⚡ Fun Fact
 - I love solving puzzles and enjoy a good mystery novel in my free time.
