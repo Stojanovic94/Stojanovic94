@@ -29,5 +29,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=Stojanovic94&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Stojanovic94&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
+
 ---
 Thanks for visiting my profile. Happy coding! 😊
