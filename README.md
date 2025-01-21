@@ -4,7 +4,7 @@
 ## I'm a passionate developer, always eager to learn and explore new technologies.
 ---
 ### 🔭 Current Projects
-- **Exchange Rate Forecast**: Exchange Rate Forecast using an ARIMA model.
+- **Exchange Rate Forecast**: Exchange Rate Forecast using forecasting models such as ARIMA, ETS, and FBProphet.
 - **Expense-Tracker**: is a simple application to help users manage and track their expenses.
 - **SRT to DOC Converter**: Converting subtitle files into editable document formats using C#.
 - **Car Leasing Calculator**: A CSS-based tool for estimating car leasing costs.
