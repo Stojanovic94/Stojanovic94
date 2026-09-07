@@ -26,9 +26,9 @@
 ### 🏆 GitHub Stats
 ![](https://komarev.com/ghpvc/?username=Stojanovic94&color=blue&style=flat)
 
-![](https://github-readme-stats.vercel.app/api?username=Stojanovic94&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+[![Stojanovic94 GitHub stats](https://github-stats-extended.vercel.app/api?username=Stojanovic94)](https://github.com/stats-organization/github-stats-extended)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Stojanovic94&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Stojanovic94&langs_count=4)
 
 ---
 Thanks for visiting my profile. Happy coding! 😊
